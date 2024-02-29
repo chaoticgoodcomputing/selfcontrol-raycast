@@ -49,4 +49,4 @@ fi
 
 echo $timer_datetime
 
-$SELF_CONTROL_CLI start --blocklist ~/.blocklist.selfcontrol --enddate $timer_datetime
+$SELF_CONTROL_CLI start --enddate $timer_datetime
